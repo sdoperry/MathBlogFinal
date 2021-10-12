@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Arithmetic Overview",
+      "body": "Arithmetic is all about numbers and their operations.  Operations are what we DO to numbers.  They can be binary, such as addition, subtraction, multiplication, and division, or they can be unary, such as the negative sign.",
+      "author": "Dewayne",
+      "id": 1
+    },
+    {
+      "title": "Algebra Overview",
+      "body": "Algebra is about numbers and VARIABLES with their operations.  Numbers are fixed values, and Variables are values that can change (they can vary).  Algebraic operations are similar to arithmetic operations.",
+      "author": "Ontonio",
+      "id": 2
+    },
+    {
+      "title": "Geometry Overview",
+      "body": "Geometry is about shapes (\"geo\") and their measurement.  We need a basic knowledge of arithmetic and algebra to understand geometric formulas.",
+      "author": "Dewayne",
+      "id": 3
+    }
+  ]
+}
