@@ -1,7 +1,6 @@
 # Final Project for Module 6
 
 This is my final project for Module 6 of Kingsland University's Zero-to-Blockchain course.
-Author: Sharrod Perry
 
 ## Project Description
 
